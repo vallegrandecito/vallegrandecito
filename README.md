@@ -58,7 +58,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ## 💬 Contacto
 
 ¿Tienes preguntas o sugerencias? ¡Escríbenos!  
-📧 **correo@vallegrandecito.com**  
+📧 **vallegrandecito@gmail.com**  
 🌐 [vallegrandecito.com](https://vallegrandecito.com)
 
 ---
